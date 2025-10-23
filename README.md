@@ -1,4 +1,4 @@
-operating system for Bitcoin miners developed by GhOSt.
+operating system for Bitcoin miners developed by Ghaith AbdulReda.
 
 if you want to compile this os just try to use 
 **chmod +x r.sh**
