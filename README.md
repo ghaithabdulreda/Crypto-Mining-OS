@@ -5,3 +5,4 @@ if you want to compile this os just try to use
 **./r.sh**
 then use 
 **qemu-system-x86_64 -fda main.flp**
+d
